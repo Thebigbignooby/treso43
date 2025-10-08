@@ -1,0 +1,13 @@
+{
+  "name": "@treso43/payment-and-funding",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "payment-and-funding"
+  },
+  "dependencies": {
+    "next": "~15.2.4",
+    "react": "19.0.0",
+    "react-dom": "19.0.0"
+  }
+}

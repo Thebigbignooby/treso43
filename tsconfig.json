@@ -8,6 +8,12 @@
     },
     {
       "path": "./apps/invoice-hub"
+    },
+    {
+      "path": "./apps/payment-and-funding-e2e"
+    },
+    {
+      "path": "./apps/payment-and-funding"
     }
   ]
 }
